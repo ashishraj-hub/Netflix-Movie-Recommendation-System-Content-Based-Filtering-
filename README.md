@@ -21,12 +21,14 @@ The project is designed to demonstrate practical application of **Natural Langua
 
 ## 📂 Repository Structure
 
+```
+
 ├── Major Project 2.ipynb               # Jupyter Notebook with full workflow
 ├── Project Report.pdf                  # Detailed project report
-├── cleaned_dataset.csv                # Preprocessed dataset
-├── LICENSE                            # License file
+├── cleaned_dataset.csv                 # Preprocessed dataset
+├── LICENSE                             # License file
 └── README.md                           # Project documentation
-
+```
 
 ---
 
