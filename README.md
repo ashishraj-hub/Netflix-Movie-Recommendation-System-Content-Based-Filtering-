@@ -1,5 +1,7 @@
 # 🎬 Netflix Movie Recommendation System (Content-Based Filtering)
 
+---
+
 ## 📌 Overview
 This project implements a **Content-Based Filtering Recommendation System** for movies on Netflix.  
 By analyzing movie metadata such as **genres, cast, crew, and descriptions**, the system recommends movies that are similar to a user’s preferences.  
@@ -73,26 +75,51 @@ cd Netflix-Movie-Recommendation-System-Content-Based-Filtering
 jupyter notebook Major\ Project\ 2.ipynb
  ```
 
-# 📈 Results
-The system successfully recommends movies based on content similarity.
+---
 
-Example: Inputting "Inception" returns movies with similar genres, themes, and cast.
+## 📈 Results
 
-# 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+- The system successfully recommends movies based on content similarity.
+
+- Example: Inputting "Inception" returns movies with similar genres, themes, and cast.
+
+---
+
+## 📜 License
+
+- This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
 
 # 🙌 Acknowledgements
-Dataset Source: Kaggle
-Libraries: Scikit-Learn, Pandas, NumPy
 
-# ⭐
-If you like this project, don’t forget to:
+- Dataset Source: Kaggle
+- Libraries: Scikit-Learn, Pandas, NumPy
 
-👍 Star the repo
-🍴 Fork it
-🤝 Contribute
+---
 
-# 👤 Author
+## 👤 Author
 
 **Ashish Raj**
-🔗GitHub:- github.com/ashishraj-hub
+
+---
+
+## 🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
